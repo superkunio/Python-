@@ -1,0 +1,12 @@
+import socket
+s = socket.socket()
+address = ('0.0.0.0',8848)
+s.bind(address)
+s.listen(2)
+print("watting for connect")
+conn,addr = s.accept()
+data = conn.recv(1024)
+print(addr[0],'-->',data.decode())
+conn.send('OK'.encode())
+conn.close()
+s.close()

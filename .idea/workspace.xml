@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb4cb64d-e858-4ff7-ad84-885ef31d48ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb4cb64d-e858-4ff7-ad84-885ef31d48ae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +91,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="1188" />
+    <option name="width" value="815" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -130,13 +128,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\学习\project\PATH2\20190602" />
-      <recent name="D:\学习\project\20190504\FTP\FTP" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\学习\project\PATH2" />
       <recent name="D:\学习\project\20190421\test001" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\project\PATH2\20190602" />
+      <recent name="D:\学习\project\20190504\FTP\FTP" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -345,9 +343,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <frame x="951" y="0" width="652" height="693" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49361703" visible="true" weight="0.320442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49361703" visible="true" weight="0.39322034" />
       <window_info id="Structure" order="1" sideWeight="0.506383" side_tool="true" weight="0.46433377" />
       <window_info id="Favorites" order="2" sideWeight="0.5035765" side_tool="true" weight="0.4652778" />
       <window_info anchor="bottom" id="Message" order="0" />
